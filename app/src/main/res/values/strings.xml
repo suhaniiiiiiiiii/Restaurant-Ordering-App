@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">BiteSwift Restaurant</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_cart">My Cart</string>
+    <string name="title_checkout">Checkout</string>
+    <string name="title_order_history">My Orders</string>
+    <string name="tagline">Delicious Food Delivered Fast</string>
+
+    <!-- Auth -->
+    <string name="login_title">Welcome Back!</string>
+    <string name="login_subtitle">Sign in to order your favorite meals</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Sign In</string>
+    <string name="no_account">Don\'t have an account? Sign Up</string>
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Join us to start ordering delicious meals</string>
+    <string name="name_hint">Full Name</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="register_button">Sign Up</string>
+    <string name="already_have_account">Already have an account? Sign In</string>
+
+    <!-- Errors & Validation -->
+    <string name="err_empty_email">Please enter your email</string>
+    <string name="err_invalid_email">Please enter a valid email address</string>
+    <string name="err_empty_password">Please enter your password</string>
+    <string name="err_short_password">Password must be at least 6 characters</string>
+    <string name="err_empty_name">Please enter your name</string>
+    <string name="err_empty_phone">Please enter your phone number</string>
+    <string name="err_invalid_phone">Please enter a valid 10-digit phone number</string>
+
+    <!-- Cart & Checkout -->
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="empty_cart">Your cart is empty</string>
+    <string name="start_ordering">Browse Menu to Order</string>
+    <string name="subtotal_label">Subtotal:</string>
+    <string name="tax_label">Delivery &amp; Tax (5%):</string>
+    <string name="total_label">Grand Total:</string>
+    <string name="proceed_to_checkout">Proceed to Checkout</string>
+    <string name="delivery_address_hint">Delivery Address (Street, House No, Landmark)</string>
+    <string name="payment_method_label">Select Payment Method</string>
+    <string name="place_order">Place Order</string>
+    <string name="order_placed_success">Order placed successfully!</string>
+
+    <!-- Order Tracking -->
+    <string name="order_status_placed">Order Placed</string>
+    <string name="order_status_preparing">Preparing in Kitchen</string>
+    <string name="order_status_out_for_delivery">Out for Delivery</string>
+    <string name="order_status_delivered">Delivered</string>
+</resources>
